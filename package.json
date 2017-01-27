@@ -1,0 +1,20 @@
+{
+  "name": "twitatron",
+  "version": "1.0.0",
+  "description": "Twitter mention tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philisiah Sanguli",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.14.0",
+    "express-session": "^1.15.0",
+    "jade": "^1.11.0",
+    "mongoose": "^4.7.8",
+    "passport": "^0.3.2",
+    "passport-twitter": "^1.0.4"
+  }
+}
